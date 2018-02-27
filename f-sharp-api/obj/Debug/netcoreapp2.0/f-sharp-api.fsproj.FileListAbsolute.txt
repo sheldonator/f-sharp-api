@@ -1,0 +1,8 @@
+D:\private\github\f-sharp-api\f-sharp-api\bin\Debug\netcoreapp2.0\f-sharp-api.deps.json
+D:\private\github\f-sharp-api\f-sharp-api\bin\Debug\netcoreapp2.0\f-sharp-api.runtimeconfig.json
+D:\private\github\f-sharp-api\f-sharp-api\bin\Debug\netcoreapp2.0\f-sharp-api.runtimeconfig.dev.json
+D:\private\github\f-sharp-api\f-sharp-api\bin\Debug\netcoreapp2.0\f-sharp-api.dll
+D:\private\github\f-sharp-api\f-sharp-api\obj\Debug\netcoreapp2.0\f-sharp-api.fsprojResolveAssemblyReference.cache
+D:\private\github\f-sharp-api\f-sharp-api\bin\Debug\netcoreapp2.0\f-sharp-api.pdb
+D:\private\github\f-sharp-api\f-sharp-api\obj\Debug\netcoreapp2.0\f-sharp-api.dll
+D:\private\github\f-sharp-api\f-sharp-api\obj\Debug\netcoreapp2.0\f-sharp-api.pdb
