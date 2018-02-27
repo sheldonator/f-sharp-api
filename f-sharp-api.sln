@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "f-sharp-api", "f-sharp-api\f-sharp-api.fsproj", "{DA2C6714-3573-4596-9A2B-2982600C9BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2C6714-3573-4596-9A2B-2982600C9BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2C6714-3573-4596-9A2B-2982600C9BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2C6714-3573-4596-9A2B-2982600C9BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2C6714-3573-4596-9A2B-2982600C9BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5EAEE2E-CB1C-4697-8DC4-33EEC73951A9}
+	EndGlobalSection
+EndGlobal
